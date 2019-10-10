@@ -28,7 +28,7 @@ public class AddingMachine {
 	}
 	
 	public void clear () {		//Clear AddingMachine variable(s).
-		
+		total = 0;
 	}
 	
 	

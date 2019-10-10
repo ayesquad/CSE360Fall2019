@@ -10,6 +10,8 @@ public class TestAddingMachine {
 		System.out.print(am.toString());
 		am.subtract(7);
 		System.out.print(am.toString());
+		am.clear();
+		System.out.print("\n" + am.getTotal());
 
 	}
 
