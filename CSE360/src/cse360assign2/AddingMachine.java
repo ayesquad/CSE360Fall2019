@@ -1,3 +1,9 @@
+/*
+ * Author: Brian Dang
+ * Class: CSE360
+ * Date: 10/9/19
+ * Assignment 2
+ */
 package cse360assign2;
 
 public class AddingMachine {
