@@ -1,6 +1,6 @@
 /*
  * Author: Brian Dang
- * Class: CSE360
+ * Class: CSE360 (85141)
  * Date: 10/9/19
  * Assignment 2
  */
