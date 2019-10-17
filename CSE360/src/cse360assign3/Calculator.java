@@ -22,7 +22,7 @@ public class Calculator extends AddingMachine {
 	}
 	
 	public void power (int value) {
-		if (value < 0) {		//If you raised the number to a negative number, total = 0.
+		if (value < 0) {		//If you raised number by a negative number, total = 0.
 			total = 0;
 		}
 		else {
