@@ -2,14 +2,14 @@
  * Author: Brian Dang
  * Class: CSE360 (85141)
  * Date: 10/9/19
- * Assignment 2
+ * Assignment 3
  */
-package cse360assign2;
+package cse360assign3;
 
 public class AddingMachine {
 
-	private int total;
-	private String previousHistory = "0";
+	protected int total;
+	protected String previousHistory = "0";
 	
 	public AddingMachine () {		//Constructor for AddingMachine
 		total = 0; //not needed - included for clarity
@@ -35,6 +35,7 @@ public class AddingMachine {
 	
 	public void clear () {		//Clear AddingMachine variable(s).
 		total = 0;
+		previousHistory = "0";
 	}
 	
 	
